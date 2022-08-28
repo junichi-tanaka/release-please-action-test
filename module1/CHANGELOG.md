@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/junichi-tanaka/release-please-action-test/compare/module1-v0.2.0...module1/v0.0.2) (2022-08-28)
+
+
+### Miscellaneous Chores
+
+* **module3:** empty commit ([29850f6](https://github.com/junichi-tanaka/release-please-action-test/commit/29850f66d8e11f74ac7f70e213c67f116cedcdbf))
+
 ## [0.2.0](https://github.com/junichi-tanaka/release-please-action-test/compare/module1-v0.1.0...module1-v0.2.0) (2022-08-28)
 
 
