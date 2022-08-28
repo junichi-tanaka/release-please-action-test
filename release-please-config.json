@@ -1,5 +1,6 @@
 {
   "separate-pull-requests": true,
+  "tag-separator": "/",
   "packages": {
     "module1": {
       "component": "module1",
@@ -8,8 +9,7 @@
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
-      "prerelease": false,
-      "tag-separator": "/"
+      "prerelease": false
     },
     "module2": {
       "component": "module2",
@@ -18,8 +18,7 @@
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
-      "prerelease": false,
-      "tag-separator": "/"
+      "prerelease": false
     },
     "module3": {
       "component": "module3",
@@ -28,8 +27,7 @@
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
-      "prerelease": false,
-      "tag-separator": "/"
+      "prerelease": false
     }
   }
 }
