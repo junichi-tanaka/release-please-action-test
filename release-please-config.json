@@ -14,7 +14,7 @@
     "module2": {
       "component": "module2",
       "changelog-path": "CHANGELOG.md",
-      "release-type": "node",
+      "release-type": "simple",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
@@ -24,7 +24,7 @@
     "module3": {
       "component": "module3",
       "changelog-path": "CHANGELOG.md",
-      "release-type": "dart",
+      "release-type": "simple",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
