@@ -14,4 +14,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: go
-          default-branch: main
+          path: module1
+          component: module1
